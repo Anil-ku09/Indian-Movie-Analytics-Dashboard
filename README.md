@@ -16,7 +16,7 @@ This project demonstrates data visualization, dashboard design, KPI tracking, an
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
