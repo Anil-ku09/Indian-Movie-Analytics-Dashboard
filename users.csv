@@ -1,0 +1,51 @@
+user_id,gender,age,zipcode,occupation
+1,M,24,560001,Other
+2,F,30,560002,Not specified
+3,M,22,560003,Other
+4,F,28,560004,Not specified
+5,M,35,560005,Other
+6,F,26,560006,Not specified
+7,M,31,560007,Other
+8,F,29,560008,Not specified
+9,M,40,560009,Other
+10,F,23,560010,Not specified
+11,M,27,560011,Other
+12,F,33,560012,Not specified
+13,M,21,560013,Other
+14,F,36,560014,Not specified
+15,M,45,560015,Other
+16,F,32,560016,Not specified
+17,M,25,560017,Other
+18,F,38,560018,Not specified
+19,M,41,560019,Other
+20,F,24,560020,Not specified
+21,M,29,560021,Other
+22,F,27,560022,Not specified
+23,M,34,560023,Other
+24,F,31,560024,Not specified
+25,M,26,560025,Other
+26,F,28,560026,Not specified
+27,M,37,560027,Other
+28,F,22,560028,Not specified
+29,M,39,560029,Other
+30,F,30,560030,Not specified
+31,M,23,560031,Other
+32,F,35,560032,Not specified
+33,M,28,560033,Other
+34,F,26,560034,Not specified
+35,M,32,560035,Other
+36,F,40,560036,Not specified
+37,M,24,560037,Other
+38,F,29,560038,Not specified
+39,M,33,560039,Other
+40,F,21,560040,Not specified
+41,M,36,560041,Other
+42,F,27,560042,Not specified
+43,M,25,560043,Other
+44,F,31,560044,Not specified
+45,M,38,560045,Other
+46,F,34,560046,Not specified
+47,M,22,560047,Other
+48,F,30,560048,Not specified
+49,M,41,560049,Other
+50,F,28,560050,Not specified
